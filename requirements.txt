@@ -1,0 +1,2 @@
+# Requires: quasi-potential
+# (Not available on PyPI)
